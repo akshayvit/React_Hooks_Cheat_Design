@@ -1,0 +1,13 @@
+$linkcol: green;
+$linkweight: bold;
+
+li {
+    color: $linkcol;
+    font-weight: $linkweight;
+}
+
+$bcolor: yellow;
+
+ul {
+    background-color: $bcolor;
+}
